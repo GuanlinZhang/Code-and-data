@@ -2,7 +2,16 @@
 This repository contains all the simulation and real data analysis codes and related data.
 
 ## Description
-'simulation of Bayesian group lasso marginal union intersection method.R' is the simulation code of 4 marginal distributions sharing the same underlying influential parameters in heavy-tailed case. 'union support recovery.R' is the simulation code of different underlying models case. 'data analysis.R' is the code of analyzing 'finance.csv' using full model, group lasso and Bayesian method. 
+'simulation of Bayesian group lasso marginal union intersection method.R':
+This script is simulating data and performing the Bayesian, group lasso, marginal, union and interaction methods on the sample that has four marginal distributions which share the same underlying influential parameters in a heavy-tailed case. 
+
+'union support recovery.R':
+This script is performing simulations for support recovery in different underlying marginal models. 
+
+'data analysis.R':
+This script likely analyzes the 'finance.csv' dataset using three methods: the full model, group lasso, and Bayesian method. The full model refers to fitting a model with all available variables. This analysis aims to compare the results and performances of the different methods in the context of the 'finance.csv' dataset.
+
+The results are shown as graphs in the '.png' files. 
 
 ##Citation
 >Zhang, G., Gao, X., and Wu, Y. (2023) Bayesian model selection via composite likelihood for high-dimensional data integration *(submitted)*
