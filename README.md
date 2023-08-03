@@ -14,4 +14,4 @@ This script likely analyzes the 'finance.csv' dataset using three methods: the f
 The results are shown as graphs in the '.png' files. 
 
 ##Citation
->Zhang, G., Gao, X., and Wu, Y. (2023) Bayesian model selection via composite likelihood for high-dimensional data integration *(submitted)*
+>Zhang, G., Wu, Y., and Gao, X. (2023) Bayesian model selection via composite likelihood for high-dimensional data integration *(submitted)*
