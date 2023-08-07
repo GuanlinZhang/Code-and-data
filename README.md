@@ -1,17 +1,11 @@
-# Code-and-data
-This repository contains all the simulation and real data analysis codes and related data.
+#Code-and-data
 
-## Description
-'simulation of Bayesian group lasso marginal union intersection method.R':
-This script is simulating data and performing the Bayesian, group lasso, marginal, union and interaction methods on the sample that has four marginal distributions which share the same underlying influential parameters in a heavy-tailed case. 
+This repository contains all the simulation codes, real data analysis codes and the related data.
 
-'union support recovery.R':
-This script is performing simulations for support recovery in different underlying marginal models. 
+#Description
 
-'data analysis.R':
-This script likely analyzes the 'finance.csv' dataset using three methods: the full model, group lasso, and Bayesian method. The full model refers to fitting a model with all available variables. This analysis aims to compare the results and performances of the different methods in the context of the 'finance.csv' dataset.
+##'simulation of Bayesian group lasso marginal union intersection method.R': This script is simulating data and performing the Bayesian, group lasso, marginal, union and interaction methods on the sample that has four marginal distributions which share the same underlying influential parameters in a heavy-tailed case.
 
-The results are shown as graphs in the '.png' files. 
+##'union support recovery.R': This script is performing simulations for support recovery in different underlying marginal models.
 
-##Citation
->Zhang, G., Wu, Y., and Gao, X. (2023) Bayesian model selection via composite likelihood for high-dimensional data integration *(submitted)*
+##'data analysis.R': This script analyzes the 'finance.csv' dataset using three methods: the full model, group lasso, and Bayesian method. The full model refers to fitting a model with all available variables. This analysis aims to compare the results and performances of the different methods in the context of the 'finance.csv' dataset.
