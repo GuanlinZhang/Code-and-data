@@ -9,3 +9,6 @@ This repository contains all the simulation codes, real data analysis codes and 
 ##'union support recovery.R': This script is performing simulations for support recovery in different underlying marginal models.
 
 ##'data analysis.R': This script analyzes the 'finance.csv' dataset using three methods: the full model, group lasso, and Bayesian method. The full model refers to fitting a model with all available variables. This analysis aims to compare the results and performances of the different methods in the context of the 'finance.csv' dataset.
+
+#Citation
+>Zhang, G., Wu, Y. and Gao, X. (2023) Bayesian model selection via composite likelihood for high-dimensional data integration *(submitted)*
